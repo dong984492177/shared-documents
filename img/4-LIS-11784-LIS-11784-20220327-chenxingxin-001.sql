@@ -1,0 +1,1 @@
+update lmrisksort set risksortvalue ='0' where riskcode in('203A40','306080','306090','204A40','204A50','204A60') and risksorttype ='SL';
